@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dib1409/Dib1409/blob/main/DIBYENDU%20NATH.png)
 <h1 align="center">Hi 👋, I'm Dibyendu Nath (Dib)</h1>
-<h3 align="center">A passionate Software Engineer/ Frontend Developer from India</h3>
+<h3 align="center">A Passionate Software Engineer/ Frontend Developer from India</h3>
 
 <img align="center" alt="coding" width="1100" height="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
